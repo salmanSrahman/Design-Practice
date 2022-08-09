@@ -1,7 +1,9 @@
+import Navbar from "./Components/Navbar/Navbar";
+
 function App() {
   return (
     <div>
-      <h1>Data Finance</h1>
+      <Navbar />
     </div>
   );
 }
